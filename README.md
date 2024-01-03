@@ -27,7 +27,11 @@
 - ~~7.1.1.Числовые выражения~~ (Редактируются анимации)
 - ~~7.1.2.Алгебраические выражения~~ (Редактируются анимации)
 - [7.2.1.График и функция](/Algebra/7.2.1.Graph_and_function.mp4)
+
+https://github.com/Lo-Wang/VisualKnowledge/assets/115723019/45cca4e5-0085-495d-b7ac-f2078c9e717b
 - [7.5.1.Квадрат суммы](/Algebra/7.5.1.Quadrantic_equantions.mp4)
+
+https://github.com/Lo-Wang/VisualKnowledge/assets/115723019/6f0bfa0a-71e8-4b2c-9812-cd72783b4b3e
 - ~~9.1.2.Решение уравнений методом неравенств~~ (на доработке) 
 
 
